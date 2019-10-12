@@ -1,3 +1,7 @@
 
 sudo permission to htdocs---->
 https://stackoverflow.com/questions/43144325/failed-to-open-stream-permission-denied-in-opt-lampp-htdocs
+
+
+sudo permission to htdocs---->
+https://stackoverflow.com/questions/43144325/failed-to-open-stream-permission-denied-in-opt-lampp-htdocs
