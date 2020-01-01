@@ -12,3 +12,4 @@ force remove thrash items-------------->https://superuser.com/questions/199731/l
 
 ubuntu kernel update problem----------->https://askubuntu.com/questions/955020/ubuntu-wont-boot-kernel-error
 
+http persistance ss after idle =0 ------------->sudo sysctl -w net.ipv4.tcp_slow_start_after_idle=0
